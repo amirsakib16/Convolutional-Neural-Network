@@ -19,7 +19,7 @@ A comprehensive exploration of **Convolutional Neural Networks (CNNs)**, featuri
 * **Feature Extraction:** Visualization of how kernels/filters identify edges, textures, and complex patterns.
 * **Optimized Training:** Manual and framework-based implementations of Backpropagation and Gradient Descent for spatial data.
 * **Image Pre-processing:** Automated pipelines for normalization, resizing, and data augmentation.
-* **Model Evaluation:** Built-in metrics including Confusion Matrices, Precision-Recall curves, and Accuracy logs.
+
 
 ---
 

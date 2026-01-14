@@ -13,7 +13,7 @@ A comprehensive exploration of **Convolutional Neural Networks (CNNs)**, featuri
 
 ---
 
-## 🌟 Features
+## Features
 
 * **Architectural Blueprints:** Detailed breakdowns of CNN layers including Convolutional, Pooling, and Fully Connected layers.
 * **Feature Extraction:** Visualization of how kernels/filters identify edges, textures, and complex patterns.
@@ -23,7 +23,7 @@ A comprehensive exploration of **Convolutional Neural Networks (CNNs)**, featuri
 
 ---
 
-## 🏗️ The CNN Pipeline
+## The CNN Pipeline
 
 This project implements a standard CNN workflow designed for high-accuracy image classification:
 
@@ -38,7 +38,7 @@ This project implements a standard CNN workflow designed for high-accuracy image
 
 ---
 
-## 🛠 Technical Stack
+## Technical Stack
 
 * **Language:** Python 3.x
 * **Core Logic:** NumPy (Matrix Math), Matplotlib (Visualization)
@@ -47,7 +47,7 @@ This project implements a standard CNN workflow designed for high-accuracy image
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. **Clone the Repository:**
    ```bash
